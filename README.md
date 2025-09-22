@@ -2,6 +2,6 @@ We propose a multi-agent Q-learning algorithm 𝚅𝚁𝙳𝚀 for static and ti
 <table>
 <tr>
   <td>
-    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Q_learning_convergence_plot_with_different_epsilons.png" style="width:380px">
+    <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:800px">
  </td>
 </tr>
