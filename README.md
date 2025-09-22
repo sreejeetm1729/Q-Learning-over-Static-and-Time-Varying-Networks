@@ -1,1 +1,7 @@
 We propose a multi-agent Q-learning algorithm 𝚅𝚁𝙳𝚀 for static and time-varying networks, which achieves provable collaborative speedups in sample complexity. The method combines two complementary ingredients: (i) operator refinement via batched updates and (ii) streamlined diffusion of updates among neighbors within each batch. These components are decoupled by design, isolating their effects and enabling a simplified finite-time analysis. Notably, the algorithm uses only logarithmic communication rounds, substantially lowering the communication overhead. Although developed for Q-learning, the framework extends naturally to broader reinforcement-learning settings, highlighting its generality and practicality.
+<table>
+<tr>
+  <td>
+    <img src="https://github.com/sreejeetm1729/Robust-Q-Learning-under-Corrupted-Rewards/blob/main/Q_learning_convergence_plot_with_different_epsilons.png" style="width:380px">
+ </td>
+</tr>
