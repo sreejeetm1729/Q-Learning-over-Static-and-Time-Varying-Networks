@@ -5,3 +5,9 @@ We propose a multi-agent Q-learning algorithm 𝚅𝚁𝙳𝚀 for static and ti
     <img src="https://github.com/sreejeetm1729/Q-Learning-over-Static-and-Time-Varying-Networks/blob/main/Figures/combined_network_error.gif" style="width:800px">
  </td>
 </tr>
+<p align="center">
+  <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Figure%201%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01.png"
+       alt="Figure 2" width="400">
+  <img src="https://github.com/sreejeetm1729/Robust-Federated-Q-Learning-with-Almost-No-communication/blob/main/Figures%20Robust%20Fed-Q/Figure%202%20Robust%20Fed%20Q%20with%20corruption%20fraction%200.01.png"
+       alt="Figure 1" width="400">
+</p>
